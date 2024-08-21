@@ -1,5 +1,5 @@
 # The World Billionaire of 2024
-The project is a Tableau dashboard that visualizes the global wealth distribution among billionaires, providing insights into demographics, regional distribution, and industry affiliations, offering a comprehensive view of global wealth concentration.
+Tableau dashboard that visualizes the global wealth distribution among billionaires, providing insights into demographics, regional distribution, and industry affiliations, offering a comprehensive view of global wealth concentration.
 
 ## Excel/Tableau Project
 
@@ -13,7 +13,7 @@ Data: Kaggle - Richest People in the World 2024
 
 ### [Data Source](https://www.kaggle.com/datasets/divanshu22/richest-people-in-the-world-2024)
 
-In this project I'm analyzing factors like industry, country, age and gender, as well as primary sources of wealth like inheritance, entrepreneurship, and investments.
+In this project, I'm analyzing factors like industry, country, age, and gender, as well as primary sources of wealth like inheritance, entrepreneurship, and investments.
 
 The goal is to identify significant trends and correlations that can inform wealth management strategies, economic policymaking, and investment opportunities.
 
