@@ -5,7 +5,7 @@ Tableau dashboard that visualizes the global wealth distribution among billionai
 
 ### AIM: Analyse the world's richest individuals to uncover trends and patterns in wealth creation and distribution.
 
-### [Data Source](https://www.kaggle.com/datasets/divanshu22/richest-people-in-the-world-2024):  Kaggle - Richest People in the World 2024
+### [Data Source](https://www.kaggle.com/datasets/divanshu22/richest-people-in-the-world-2024)  Kaggle - Richest People in the World 2024
 
 In this project, I'm analyzing factors like industry, country, age, and gender, as well as primary sources of wealth like inheritance, entrepreneurship, and investments.
 
