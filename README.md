@@ -31,6 +31,10 @@ Using a data collection that I previously cleaned in **Excel**, I generated a da
 
 6- Gender Distribution of Billionaires by Age Group
 
+7- Top 10 Billionaires in The World
+
+8- Top 10 Woman Billionaires in the world
+
 ### [Tableau Dashboard](https://public.tableau.com/app/profile/gustavo8148/viz/TheWorldBillionairesof2024/Dashboard4)
 
 ![](https://github.com/GustavoBraido/The-World-Billionaire-of-2024/blob/main/TheWorldBillionairesPhoto620240826.png)
