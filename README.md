@@ -1,5 +1,5 @@
 # The World Billionaire of 2024
-Tableau dashboard that visualizes the global wealth distribution among billionaires, providing insights into demographics, regional distribution, and industry affiliations, offering a comprehensive view of global wealth concentration.
+The World Billionaires of 2024 is a Tableau dashboard that visualizes the global wealth distribution among billionaires, providing insights into demographics, regional distribution, and industry affiliations, offering a comprehensive view of global wealth concentration.
 
 ## Excel/Tableau Project
 
