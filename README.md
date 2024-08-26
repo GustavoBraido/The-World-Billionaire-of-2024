@@ -9,7 +9,7 @@ Data: Kaggle - Richest People in the World 2024
 
 ![](https://github.com/GustavoBraido/Tableau-Project/blob/main/Tableau-Dashboard.png?raw=true)
 
-### [Tableau Dashboard](https://public.tableau.com/app/profile/gustavo8148/viz/BiggestGrowthofU_S_CompaniesInc_5000of2014/Dashboard1)
+### [Tableau Dashboard](https://public.tableau.com/app/profile/gustavo8148/viz/TheWorldBillionairesof2024/Dashboard4)
 
 ### [Data Source](https://www.kaggle.com/datasets/divanshu22/richest-people-in-the-world-2024)
 
