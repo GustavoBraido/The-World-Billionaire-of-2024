@@ -7,7 +7,7 @@ Tableau dashboard that visualizes the global wealth distribution among billionai
 
 Data: Kaggle - Richest People in the World 2024
 
-![](https://github.com/GustavoBraido/Tableau-Project/blob/main/Tableau-Dashboard.png?raw=true)
+![](https://github.com/GustavoBraido/The-World-Billionaire-of-2024/blob/main/TheWorldBillionairesPhoto620240826.png)
 
 ### [Tableau Dashboard](https://public.tableau.com/app/profile/gustavo8148/viz/TheWorldBillionairesof2024/Dashboard4)
 
