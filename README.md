@@ -41,16 +41,19 @@ Using a data collection that I previously cleaned in **Excel**, I generated a da
 
 ### The Result:
 Top 3 Wealthiest Individuals in the World:
+
 Elon Musk: $212.3 billion, United States (Tesla, SpaceX)
 Jeff Bezos: $203.5 billion, United States (Amazon)
 Bernard Arnault & family: $194.3 billion, France (LVMH)
 
 Top 3 Wealthiest Women in the World:
+
 Alice Walton: $79.7 billion, United States (Walmart)
 Julia Koch & family: $65.7 billion, United States (Koch Industries)
 Jacqueline Mars: $37.8 billion, United States (Candy, pet food)
 
 Youngest and Oldest Billionaires in the Top 20:
+
 The youngest Billionaire in the Top 20:
   Mark Zuckerberg: 40 years old, United States, $175.9 billion (Facebook).
 Oldest Billionaire in the Top 20:
